@@ -1,4 +1,4 @@
-# my_portal
+# Online_Exam_Portal
 An online examination website containing admin features for exam modification and viewing proctoring information and student features to take MCQ exam in the given timespan.
 
 ## Home page:
