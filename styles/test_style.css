@@ -1,0 +1,102 @@
+/* For test.php and test_style.php */
+html{
+    height:100%;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(104, 161, 248);
+}
+
+.hide{
+    display: none;
+}
+
+#sub{    
+    font-size: 30px;
+    border-radius: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#timer{
+    margin: 0px;
+    text-align: center;
+    position: sticky;
+    float: top;
+    top:0;
+    z-index: 1;
+    font-size: 50px;
+}
+
+.question{
+    font-size: 20px;
+}
+
+.option{
+    margin-right:5px;
+    font-size: 20px;
+}
+
+.card{
+    padding: 15px;
+}
+
+.solution{
+    font-size: 20px;
+}
+
+hr.solid{
+    border-top: 4px solid;
+}
+
+#excelFormatModalDialog{
+    max-width: 1100px !important;
+}
+
+.bi{
+    font-size: 8rem;
+}
+
+.floated {
+    width: 48%;
+    float: left;
+    padding: 1%;
+}
+
+.first {
+    text-align: right;
+}
+
+.indexbutton {
+    margin: 15px;
+    background-color: #0066FF;
+    border: none;
+    color: white;
+    padding: 30%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.indexbutton:hover {
+    background-color: rgb(29, 221, 235);
+}
+
+.bg-normal,.bg-correct, .bg-incorrect{
+    color: white;
+}
+
+.bg-normal{
+    background-color: grey;
+}
+.bg-correct{
+    background-color: rgb(53, 207, 32);
+
+}
+.bg-incorrect{
+    background-color: rgb(218, 30, 30);
+}
+

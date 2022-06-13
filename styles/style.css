@@ -1,0 +1,102 @@
+html{
+    height:100%;
+    padding: 0;
+}
+
+.btn{
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    margin: 5px !important;
+}
+
+input{
+    margin: 5px !important;
+}
+
+.alert{
+    margin: 5px !important;
+    text-align: center !important;
+}
+
+.navsel{
+    color: white !important;
+    text-decoration: none !important;
+    padding-right: 10px;
+}
+
+.top-toolbar{
+    padding: 5px;
+    background-color: rgb(40, 72, 177);
+    color: white !important;
+}
+
+.all-content{
+    margin-right: 15% !important;
+    margin-left: 15% !important;
+    padding: 10px;
+}
+
+footer {
+    background-color: rgb(5, 41, 158) !important;
+    color: white;
+    font-family: monospace;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+.floated {
+    width: 48%;
+    float: left;
+    padding: 1%;
+}
+
+.first {
+    text-align: right;
+}
+
+.indexbutton {
+    margin: 15px;
+    background-color: #0066FF;
+    border: none;
+    color: white;
+    padding: 30%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.bi{
+    font-size: 1.25rem;
+}
+
+.indexbutton:hover {
+    background-color: rgb(29, 221, 235);
+    color: white;
+}
+
+.solution{
+    font-size: 20px;
+}
+
+.bg-normal,.bg-correct, .bg-incorrect{
+    color: white;
+}
+
+.bg-normal{
+    background-color: grey;
+}
+.bg-correct{
+    background-color: rgb(53, 207, 32);
+
+}
+.bg-incorrect{
+    background-color: rgb(218, 30, 30);
+}
+
+hr.solid{
+    border-top: 4px solid;
+}
