@@ -25,3 +25,4 @@ An online examination website containing admin features for exam modification an
 - Database used: MySQL
 - Webcam images taken during an exam are stored in the database in dataURL form.
 - Uses Bootstrap CSS
+- In the Online_Exam_Portal/sql/table_structures.sql file, the SQL commands need to create the tables in your database is given.
